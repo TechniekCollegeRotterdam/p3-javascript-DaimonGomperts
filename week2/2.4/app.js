@@ -9,7 +9,7 @@ calculator(9, 13);
 
 //opdracht 2
 
-function multiplybifive(num, num2){
+function multiplybifive(num){
 let answer = num * 5
 console.log(answer)
 }
@@ -18,7 +18,7 @@ multiplybifive(4)
 
 //opdracht 3
  
-function calculateMinutes(num, num2){
+function calculateMinutes(num){
     let answer = num / 60
     console.log(answer)
 }
